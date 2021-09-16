@@ -2,9 +2,5 @@
 
 int main()
 {
-	std::cout << "*" << std::endl;
-	std::cout << "**" << std::endl;
-	std::cout << "***" << std::endl;
-	std::cout << "****" << std::endl;
-	std::cout << "*****" << std::endl;
+	std::cout << 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 << std::endl;
 }
